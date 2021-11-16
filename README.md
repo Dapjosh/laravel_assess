@@ -39,8 +39,9 @@ After registration, user can now sign with the login endpoint and the returned
 
 The payload for that user is returned which also includes the app_token that can be used as a bearer token in Postman or any other api client.
 
+---
 
-**The endpoints available*
+**The endpoints available**
 
 **Admin sends invitations**
 /api/invitations/  --- Admin sends an invite [POST]
